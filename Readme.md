@@ -2,6 +2,10 @@
 
 Welcome to "Your Todo List" - a simple, yet powerful web application to manage your daily tasks efficiently.
 
+## 🔗 Project URL
+
+Check out the live version of the project here: [Todo-List](https://your-todo-list-application.netlify.app/)
+
 ## ✨ Features
 
 - **Add Tasks**: Easily add new tasks to your to-do list.
